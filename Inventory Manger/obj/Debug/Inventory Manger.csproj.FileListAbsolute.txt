@@ -1,0 +1,65 @@
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Inventory Manger.exe.config
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Inventory Manger.exe
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Inventory Manger.pdb
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory Manger.csproj.AssemblyReference.cache
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory_Manger.Form1.resources
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory_Manger.Properties.Resources.resources
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory Manger.csproj.GenerateResource.cache
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory Manger.csproj.CoreCompileInputs.cache
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory Manger.exe
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory Manger.pdb
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory Manger.csproj.App.config
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\FireSharp.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\RestSharp.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Buffers.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Memory.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Text.Json.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.ValueTuple.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\RestSharp.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Buffers.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Memory.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Text.Json.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\System.ValueTuple.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory Manger.csproj.CopyComplete
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory_Manger.forgotPassword.resources
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Core.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.pdb
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Core.pdb
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Core.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Auth.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Auth.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory_Manger.newAccountForm.resources
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory_Manger.MainForm.resources
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory Manger.csproj.ResolveComReference.cache
+C:\Users\M3DAO\source\repos\Inventory Manger\Inventory Manger\obj\Debug\Inventory_Manger.Form4.resources
